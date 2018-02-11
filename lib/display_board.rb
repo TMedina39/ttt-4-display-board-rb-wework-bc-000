@@ -8,6 +8,6 @@ def display_board (x)
   puts " #{x[8]} | #{x[7]} | #{x[8] }"
 end
 
-board = [" "," "," "," "," "," "," "," "," "]
+board = ["X"," "," "," "," "," "," "," "," "]
 
 display_board (board)
