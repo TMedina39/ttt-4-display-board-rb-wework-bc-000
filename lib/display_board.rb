@@ -6,7 +6,7 @@ def display_board (x)
   puts "#{x[3]}|#{x[4]}|#{x[5]}"
   puts "-----------"
   puts "#{x[8]}|#{x[7]}|#{x[8]}"
-end 
+end
 
 board = [" "," "," "," "," "," "," "," "," "]
 
